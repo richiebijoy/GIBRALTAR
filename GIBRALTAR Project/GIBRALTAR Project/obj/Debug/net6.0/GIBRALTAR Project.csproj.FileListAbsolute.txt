@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.AssemblyInfo.cs
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\GIBRALTAR Project\GIBRALTAR Project\obj\Debug\net6.0\GIBRALTAR Project.MvcApplicationPartsAssemblyInfo.cache
